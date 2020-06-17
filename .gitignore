@@ -6,5 +6,5 @@
 /captures
 .externalNativeBuild
 .cxx
-/.idea
+/.idea/
 /app/build
